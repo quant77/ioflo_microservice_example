@@ -1,0 +1,21 @@
+Metadata-Version: 1.1
+Name: microservice
+Version: 0.0.1
+Summary: Ioflo sample microservice app
+Home-page: UNKNOWN
+Author: Anton Rudenko
+Author-email: anton@
+License: Apache2
+Description-Content-Type: UNKNOWN
+Description: UNKNOWN
+Platform: UNKNOWN
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: Apache2 License
+Classifier: Operating System :: Unix
+Classifier: Operating System :: POSIX
+Classifier: Operating System :: Microsoft :: Windows
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: Implementation :: CPython
+Classifier: Topic :: Utilities

@@ -1,0 +1,3 @@
+[console_scripts]
+microservice = microservice.microservice:main
+
